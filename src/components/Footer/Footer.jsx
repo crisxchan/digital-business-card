@@ -8,16 +8,16 @@ export default function Footer() {
     return (
         <footer>
             <a href='https://twitter.com/crisxchan' target='_blank'>
-                <img src={twIcon} />
+                <img className='footer-img' src={twIcon} />
             </a>
             <a href='https://www.facebook.com/tian179/' target='_blank'>
-                <img src={fbIcon} />
+                <img className='footer-img' src={fbIcon} />
             </a>
             <a href='https://www.instagram.com/crisxxchan/' target='_blank'>
-                <img src={igIcon} />
+                <img className='footer-img' src={igIcon} />
             </a>
             <a href='https://github.com/crisxchan' target='_blank'>
-                <img src={ghIcon} />
+                <img className='footer-img' src={ghIcon} />
             </a>
         </footer>
     )
