@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box 
+}
+
+#about {
+    max-width: 315px;
+    padding-inline: 35px;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #2B283A;
+    margin-top: 25px;
+}
+
+p {
+    font-size: 10px;
+    color: #4A4E74;
+    line-height: 150%;
+    margin-top: 5px;
+}
